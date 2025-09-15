@@ -7,8 +7,8 @@ I am committed to deepening my expertise and creating meaningful impact by turni
 
 Now I'm a cadet at 42 School São Paulo
 
-## 📈 Languages & WakaTime
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=luiscarvalhofrade&layout=compact&langs_count=10&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Languages
+(https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarvalhofrade&hide_progress=false&layout=compact&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)
 
 
