@@ -8,7 +8,6 @@ I am committed to deepening my expertise and creating meaningful impact by turni
 Now I'm a cadet at 42 School São Paulo
 
 ## 📈 Languages
-(https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarvalhofrade&hide_progress=false&layout=compact&theme=shadow_red&title_color=ffffff&text_color=ffffff&border_color=cc1800)
 
 
