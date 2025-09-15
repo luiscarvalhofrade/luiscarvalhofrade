@@ -1,15 +1,18 @@
 # Hi — I'm Luis 👋
-I'm a data / software enthusiast: economics -> software engineering.
+Coming from an economics background, I developed strong analytical and problem-solving skills, but I discovered my true passion in technology. After a period of exploration, I shifted my focus from finance to building solutions through software, data, and product development.
+With a diverse background spanning business analysis, finance, programming, data science, and product management, I am committed to deepening my expertise and creating meaningful impact by turning ideas and data into technology that solves real problems.
 
 ## 🔭 Projects
 - [project-1](https://github.com/username/project-1) — one-line summary
 - [project-2](https://github.com/username/project-2) — one-line summary
 
 ## 🛠 Tech
-Python · TypeScript · C++ · Git
+Python · TypeScript · C++ · Git · C · C++ · NumPy · Pandas · Node.js · ReactJS
+Scikit-learn · Google Firebase · Jira · SQL · Product
 
 ## 📫 Contact
-Email: your.email@example.com
+Email: luis.carvalho.frade@gmail.com
+Linkedin: https://www.linkedin.com/in/luis-carvalho-frade/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 <!--
