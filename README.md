@@ -8,7 +8,7 @@ I am committed to deepening my expertise and creating meaningful impact by turni
 Now, cadet at 42 School São Paulo
 
 ## 🛠 Tech
-Python · TypeScript · C++ · Git · C · C++ · NumPy · Pandas · Node.js · ReactJS · Scikit-learn · Google Firebase · Jira · SQL · Product
+Python · TypeScript · C++ · Git · C · NumPy · Pandas · Node.js · ReactJS · Scikit-learn · Google Firebase · Jira · SQL · Product
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carvalho-frade/)
